@@ -1,0 +1,33 @@
+{
+  "name": "node-red-contrib-fgj17",
+  "version": "1.0.0",
+  "description": "for #fgj17",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prototechno/node-red-contrib-fgj17.git"
+  },
+  "node-red" : {
+    "nodes": {
+      "fgj17-node": "node.js"
+    }
+  },
+  "keywords": [
+    "node-red",
+    "fgj17",
+    "iot",
+    "unity",
+    "ue4",
+    "hololens",
+    "intel"
+  ],
+  "author": "prototechno",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/prototechno/node-red-contrib-fgj17/issues"
+  },
+  "homepage": "https://github.com/prototechno/node-red-contrib-fgj17#readme"
+}
